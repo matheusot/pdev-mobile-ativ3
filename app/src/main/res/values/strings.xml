@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Serviços</string>
+    <string name="digite_o_cep">Digite o CEP ou IP para buscar o endereço:</string>
+    <string name="etCep_hint">00000-000 || 192.168.0.1</string>
+    <string name="buscar">Buscar</string>
+    <string name="informacoes">Informações</string>
+</resources>
